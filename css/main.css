@@ -10,16 +10,11 @@ h2 {
   color: #5d8432;
 }
 
-h3 {
-  text-transform: uppercase;
-  font-family: "Patua One", cursive;
+p {
+  font-size: .75rem;
   color: #5d8432;
-}
-
-h4 {
-  text-transform: uppercase;
-  font-family: "Patua One", cursive;
-  color: #5d8432;
+  font-style: italic;
+  text-align: center;
 }
 
 figcaption {
